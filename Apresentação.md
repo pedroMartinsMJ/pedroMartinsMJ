@@ -13,7 +13,5 @@ Olá! Meu nome é Pedro, e sou estudante de Engenharia de Software no 3º semest
 ## Projetos
 Atualmente, estou trabalhando em alguns projetos pessoais para praticar meus conhecimentos em desenvolvimento de software.
 
-## Contato
-Se quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem aqui no GitHub ou me encontrar no LinkedIn [seu perfil do LinkedIn aqui].
 
 Obrigado por visitar o meu perfil.
